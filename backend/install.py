@@ -1,0 +1,4 @@
+DEPENDENCIES = [
+  'django',
+  'djangorestframework'
+]
