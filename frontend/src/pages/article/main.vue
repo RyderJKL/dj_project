@@ -4,6 +4,6 @@ div.article-page ArticlePage
 
 <script>
 export default {
-  name: 'ArticlePage'
+  name: 'Article'
 }
 </script>

@@ -2,6 +2,7 @@
 import __import__ from './__import__'
 
 const Layout = __import__('layout/Layout.vue')
+const Article = __import__('article/main.vue')
 
 const constRoutes = [
   // {
@@ -37,6 +38,20 @@ const asyncRoutes = [
     //     meta: { title: '首页' }
     //   }
     // ]
+  },
+  {
+    name: 'article',
+    path: '/article',
+    component: Layout,
+    meta: { icon: 'document', title: '组件', roles: ['admin'] },
+    children: [
+      {
+        path: '',
+        name: 'articles',
+        component: Article,
+        meta: { title: '博客' }
+      }
+    ]
   }
 
   // {

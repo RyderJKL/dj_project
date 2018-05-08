@@ -1,1 +1,1 @@
-module.exports = path => () => import(`pages/${path}`)
+module.exports = filePath => () => import(`pages/${filePath}`)

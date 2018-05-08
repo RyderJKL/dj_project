@@ -1,7 +1,6 @@
 import axios from 'axios'
 import humps from 'humps'
 import { Message } from 'element-ui'
-// import camelize from 'camelize'
 
 const fetch = axios.create({
   timeout: 30000

@@ -1,1 +1,1 @@
-module.exports = path => require(`pages/${path}`).default
+module.exports = filePath => require(`pages/${filePath}`).default
