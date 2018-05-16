@@ -90,7 +90,7 @@ class GoodsCategoryBrand(models.Model):
 
   image = models.ImageField(
     max_length=200,
-    upload_to="brand/images"
+    upload_to="brands/images/"
    )
 
   add_time = models.DateTimeField(
@@ -177,7 +177,7 @@ class Goods(models.Model):
   )
 
   goods_front_image = models.ImageField(
-    upload_to="googs/images",
+    upload_to="goods/images/",
     blank=True,
     null=True,
     verbose_name="封面图"
