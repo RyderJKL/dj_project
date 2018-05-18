@@ -3,9 +3,9 @@
 
 row_data = [
     {
-        'sub_categorys': [
+        'sub_categories': [
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': 'yr',
                         'name': '羊肉'
@@ -27,7 +27,7 @@ row_data = [
                 'name': '精品肉类'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': 'cb',
                         'name': '参鲍'
@@ -49,7 +49,7 @@ row_data = [
                 'name': '海鲜水产'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': 'xhd_xyd',
                         'name': '松花蛋/咸鸭蛋'
@@ -63,7 +63,7 @@ row_data = [
                 'name': '蛋制品'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': 'sc',
                         'name': '生菜'
@@ -85,28 +85,28 @@ row_data = [
                 'name': '叶菜类'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': 'gjl',
                 'name': '根茎类'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': 'qgl',
                 'name': '茄果类'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': 'jgl',
                 'name': '菌菇类'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': 'jksx',
@@ -117,9 +117,9 @@ row_data = [
         'name': '生鲜食品'
     },
     {
-        'sub_categorys': [
+        'sub_categories': [
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': 'wly',
                         'name': '五粮液'
@@ -137,28 +137,28 @@ row_data = [
                 'name': '白酒'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': 'ptj',
                 'name': '葡萄酒'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': 'yj',
                 'name': '洋酒'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': 'pj',
                 'name': '啤酒'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': 'qtpp',
                         'name': '其他品牌'
@@ -176,14 +176,14 @@ row_data = [
                 'name': '其他酒品'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': 'yls',
                 'name': '饮料/水'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': 'bld',
                         'name': '白兰地'
@@ -201,9 +201,9 @@ row_data = [
         'name': '酒水饮料'
     },
     {
-        'sub_categorys': [
+        'sub_categories': [
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '其他食用油',
                         'name': '其他食用油'
@@ -229,7 +229,7 @@ row_data = [
                 'name': '食用油'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '面粉/面条',
                         'name': '面粉/面条'
@@ -247,7 +247,7 @@ row_data = [
                 'name': '米面杂粮'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '调味油/汁',
                         'name': '调味油/汁'
@@ -261,21 +261,21 @@ row_data = [
                 'name': '厨房调料'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '南北干货',
                 'name': '南北干货'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '方便速食',
                 'name': '方便速食'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '调味品',
@@ -286,9 +286,9 @@ row_data = [
         'name': '粮油副食'
     },
     {
-        'sub_categorys': [
+        'sub_categories': [
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '西红柿',
                         'name': '西红柿'
@@ -306,7 +306,7 @@ row_data = [
                 'name': '有机蔬菜'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '甘蓝',
                         'name': '甘蓝'
@@ -324,7 +324,7 @@ row_data = [
                 'name': '精选蔬菜'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '火龙果',
                         'name': '火龙果'
@@ -342,7 +342,7 @@ row_data = [
                 'name': '进口水果'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '水果礼盒',
                         'name': '水果礼盒'
@@ -364,9 +364,9 @@ row_data = [
         'name': '蔬菜水果'
     },
     {
-        'sub_categorys': [
+        'sub_categories': [
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '果冻',
                         'name': '果冻'
@@ -392,7 +392,7 @@ row_data = [
                 'name': '休闲零食'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '创意喜糖',
                         'name': '创意喜糖'
@@ -414,7 +414,7 @@ row_data = [
                 'name': '糖果'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '夹心巧克力',
                         'name': '夹心巧克力'
@@ -436,7 +436,7 @@ row_data = [
                 'name': '巧克力'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '牛肉干',
                         'name': '牛肉干'
@@ -458,7 +458,7 @@ row_data = [
                 'name': '肉干肉脯/豆干'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
                     {
                         'code': '鱿鱼足',
                         'name': '鱿鱼足'
@@ -488,37 +488,37 @@ row_data = [
         'name': '休闲食品'
     },
     {
-        'sub_categorys': [
+        'sub_categories': [
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '进口奶品',
                 'name': '进口奶品'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '国产奶品',
                 'name': '国产奶品'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '奶粉',
                 'name': '奶粉'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '有机奶',
                 'name': '有机奶'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '原料奶',
@@ -529,58 +529,58 @@ row_data = [
         'name': '奶类食品'
     },
     {
-        'sub_categorys': [
+        'sub_categories': [
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '菌菇类',
                 'name': '菌菇类'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '腌干海产',
                 'name': '腌干海产'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '汤料',
                 'name': '汤料'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '豆类',
                 'name': '豆类'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '干菜/菜干',
                 'name': '干菜/菜干'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '干果/果干',
                 'name': '干果/果干'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '豆制品',
                 'name': '豆制品'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '腊味',
@@ -591,23 +591,23 @@ row_data = [
         'name': '天然干货'
     },
     {
-        'sub_categorys': [
+        'sub_categories': [
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '白茶',
                 'name': '白茶'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '红茶',
                 'name': '红茶'
             },
             {
-                'sub_categorys': [
+                'sub_categories': [
 
                 ],
                 'code': '绿茶',

@@ -24,7 +24,7 @@ from db_tools.data.category_data import  row_data
 props = {
   'code': 'code',
   'name': 'name',
-  'sub_categorys': 'sub_categorys'
+  'sub_categories': 'sub_categories'
 }
 
 for leve1_cat in row_data:
@@ -34,7 +34,7 @@ for leve1_cat in row_data:
     leve1_instance.category_type = 1
     leve1_instance.save()
 
-    for leve2_cat in leve1_cat[props['sub_categorys']]:
+    for leve2_cat in leve1_cat[props['sub_categories']]:
       leve2_instance = GoodsCategory()
       leve2_instance.code = leve2_cat[props['code']]
       leve2_instance.name = leve2_cat[props['name']]
@@ -42,11 +42,11 @@ for leve1_cat in row_data:
       leve2_instance.parent_category = leve1_instance
       leve2_instance.save()
 
-      for leve3_cat in leve2_cat[props['sub_categorys']]:
+      for leve3_cat in leve2_cat[props['sub_categories']]:
         leve3_instance = GoodsCategory()
         leve3_instance.code = leve3_cat[props['code']]
         leve3_instance.name = leve3_cat[props['name']]
-        leve3_instance.category_type = 2
+        leve3_instance.category_type = 3
         leve3_instance.parent_category = leve2_instance
         leve3_instance.save()
 

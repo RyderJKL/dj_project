@@ -10,7 +10,7 @@ row_data = [
             'goods/images/1_P_1449024889018.jpg',
             'goods/images/1_P_1449024889287.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '根茎类'
@@ -26,7 +26,7 @@ row_data = [
             'goods/images/2_P_1448945810202.jpg',
             'goods/images/2_P_1448945810814.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '海鲜水产'
@@ -42,7 +42,7 @@ row_data = [
             'goods/images/7_P_1448945104883.jpg',
             'goods/images/7_P_1448945104734.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '叶菜类'
@@ -58,7 +58,7 @@ row_data = [
             'goods/images/47_P_1448946213263.jpg',
             'goods/images/47_P_1448946213157.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '根茎类'
@@ -75,7 +75,7 @@ row_data = [
             'goods/images/10_P_1448944572532.jpg',
             'goods/images/10_P_1448944572872.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '海鲜水产'
@@ -91,7 +91,7 @@ row_data = [
             'goods/images/4_P_1448945381985.jpg',
             'goods/images/4_P_1448945381013.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '茄果类'
@@ -107,7 +107,7 @@ row_data = [
             'goods/images/8_P_1448945032810.jpg',
             'goods/images/8_P_1448945032646.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '进口生鲜'
@@ -124,7 +124,7 @@ row_data = [
             'goods/images/11_P_1448944388034.jpg',
             'goods/images/11_P_1448944388201.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '海鲜水产'
@@ -140,7 +140,7 @@ row_data = [
             'goods/images/6_P_1448945167279.jpg',
             'goods/images/6_P_1448945167015.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '菌菇类'
@@ -158,7 +158,7 @@ row_data = [
             'goods/images/9_P_1448944791077.jpg',
             'goods/images/9_P_1448944791229.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '根茎类'
@@ -174,7 +174,7 @@ row_data = [
             'goods/images/3_P_1448945490837.jpg',
             'goods/images/3_P_1448945490084.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '精品肉类'
@@ -191,7 +191,7 @@ row_data = [
             'goods/images/48_P_1448943988898.jpg',
             'goods/images/48_P_1448943988439.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '海鲜水产'
@@ -208,7 +208,7 @@ row_data = [
             'goods/images/5_P_1448945270067.jpg',
             'goods/images/5_P_1448945270432.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '蛋制品'
@@ -223,7 +223,7 @@ row_data = [
         'images': [
             'images/201705/goods_img/53_P_1495068879687.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '生鲜食品',
             '茄果类'
@@ -238,7 +238,7 @@ row_data = [
         'images': [
             'goods/images/16_P_1448947194687.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '红酒'
@@ -254,7 +254,7 @@ row_data = [
             'goods/images/14_P_1448947354031.jpg',
             'goods/images/14_P_1448947354433.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '饮料/水'
@@ -269,7 +269,7 @@ row_data = [
         'images': [
             'goods/images/12_P_1448947547989.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '其他酒品'
@@ -285,7 +285,7 @@ row_data = [
             'goods/images/46_P_1448946598711.jpg',
             'goods/images/46_P_1448946598301.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '葡萄酒'
@@ -301,7 +301,7 @@ row_data = [
             'goods/images/21_P_1448946793276.jpg',
             'goods/images/21_P_1448946793153.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '饮料/水'
@@ -317,7 +317,7 @@ row_data = [
             'goods/images/15_P_1448947257324.jpg',
             'goods/images/15_P_1448947257580.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '洋酒'
@@ -334,7 +334,7 @@ row_data = [
             'goods/images/13_P_1448947460276.jpg',
             'goods/images/13_P_1448947460353.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '葡萄酒'
@@ -350,7 +350,7 @@ row_data = [
             'goods/images/50_P_1448946543091.jpg',
             'goods/images/50_P_1448946542182.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '饮料/水'
@@ -366,7 +366,7 @@ row_data = [
             'goods/images/51_P_1448946466595.jpg',
             'goods/images/51_P_1448946466208.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '洋酒'
@@ -381,7 +381,7 @@ row_data = [
         'images': [
             'goods/images/17_P_1448947102246.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '啤酒'
@@ -396,7 +396,7 @@ row_data = [
         'images': [
             'goods/images/20_P_1448946850602.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '葡萄酒'
@@ -412,7 +412,7 @@ row_data = [
             'goods/images/19_P_1448946951581.jpg',
             'goods/images/19_P_1448946951726.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '白酒'
@@ -427,7 +427,7 @@ row_data = [
         'images': [
             'goods/images/18_P_1448947011435.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '白酒'
@@ -442,7 +442,7 @@ row_data = [
         'images': [
             'goods/images/22_P_1448946729629.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '洋酒'
@@ -457,7 +457,7 @@ row_data = [
         'images': [
             'goods/images/45_P_1448946661303.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '酒水饮料',
             '饮料/水'
@@ -472,7 +472,7 @@ row_data = [
         'images': [
             'goods/images/32_P_1448948525620.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '蔬菜水果',
             '精选蔬菜'
@@ -489,7 +489,7 @@ row_data = [
             'goods/images/30_P_1448948662571.jpg',
             'goods/images/30_P_1448948663221.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '蔬菜水果',
             '进口水果'
@@ -505,7 +505,7 @@ row_data = [
             'goods/images/31_P_1448948598947.jpg',
             'goods/images/31_P_1448948598475.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '蔬菜水果',
             '国产水果'
@@ -521,7 +521,7 @@ row_data = [
             'goods/images/35_P_1448948333610.jpg',
             'goods/images/35_P_1448948333313.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '蔬菜水果',
             '有机蔬菜'
@@ -537,7 +537,7 @@ row_data = [
             'goods/images/36_P_1448948234405.jpg',
             'goods/images/36_P_1448948234250.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '蔬菜水果',
             '有机蔬菜'
@@ -553,7 +553,7 @@ row_data = [
             'goods/images/33_P_1448948479966.jpg',
             'goods/images/33_P_1448948479886.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '蔬菜水果',
             '精选蔬菜'
@@ -578,7 +578,7 @@ row_data = [
         'images': [
             'goods/images/34_P_1448948399009.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '蔬菜水果',
             '国产水果'
@@ -593,7 +593,7 @@ row_data = [
         'images': [
             'goods/images/43_P_1448948762645.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '休闲食品'
         ],
@@ -607,7 +607,7 @@ row_data = [
         'images': [
             'goods/images/38_P_1448949220255.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '奶类食品',
             '奶粉'
@@ -622,7 +622,7 @@ row_data = [
         'images': [
             'goods/images/44_P_1448948850187.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '奶类食品',
             '进口奶品'
@@ -637,7 +637,7 @@ row_data = [
         'images': [
             'images/201511/goods_img/49_P_1448162819889.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '奶类食品'
         ],
@@ -651,7 +651,7 @@ row_data = [
         'images': [
             'goods/images/40_P_1448949038702.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '奶类食品',
             '进口奶品'
@@ -666,7 +666,7 @@ row_data = [
         'images': [
             'goods/images/39_P_1448949115481.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '奶类食品',
             '有机奶'
@@ -681,7 +681,7 @@ row_data = [
         'images': [
             'goods/images/41_P_1448948980358.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '奶类食品',
             '原料奶'
@@ -696,7 +696,7 @@ row_data = [
         'images': [
             'goods/images/37_P_1448949284365.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '奶类食品',
             '国产奶品'
@@ -711,7 +711,7 @@ row_data = [
         'images': [
             'goods/images/42_P_1448948895193.jpg'
         ],
-        'categorys': [
+        'categories': [
             '首页',
             '奶类食品',
             '进口奶品'
@@ -728,7 +728,7 @@ row_data = [
             'goods/images/27_P_1448947771805.jpg'
         ],
         'market_price': '￥187元',
-        'categorys': [
+        'categories': [
             '首页',
             '粮油副食',
             '厨房调料'
@@ -743,7 +743,7 @@ row_data = [
             'goods/images/23_P_1448948070348.jpg'
         ],
         'market_price': '￥18元',
-        'categorys': [
+        'categories': [
             '首页',
             '粮油副食',
             '食用油'
@@ -758,7 +758,7 @@ row_data = [
             'goods/images/26_P_1448947825754.jpg'
         ],
         'market_price': '￥54元',
-        'categorys': [
+        'categories': [
             '首页',
             '粮油副食',
             '调味品'
@@ -774,7 +774,7 @@ row_data = [
             'goods/images/28_P_1448947699777.jpg'
         ],
         'market_price': '￥31元',
-        'categorys': [
+        'categories': [
             '首页',
             '粮油副食',
             '南北干货'
@@ -790,7 +790,7 @@ row_data = [
             'goods/images/24_P_1448948023977.jpg'
         ],
         'market_price': '￥11元',
-        'categorys': [
+        'categories': [
             '首页',
             '粮油副食',
             '方便速食'
@@ -805,7 +805,7 @@ row_data = [
             'goods/images/25_P_1448947875346.jpg'
         ],
         'market_price': '￥14元',
-        'categorys': [
+        'categories': [
             '首页',
             '粮油副食',
             '米面杂粮'
@@ -820,7 +820,7 @@ row_data = [
             'goods/images/29_P_1448947631994.jpg'
         ],
         'market_price': '￥14元',
-        'categorys': [
+        'categories': [
             '首页',
             '粮油副食',
             '食用油'
