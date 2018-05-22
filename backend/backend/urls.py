@@ -23,7 +23,6 @@ from django.views.generic import TemplateView
 
 # user rest framework build-in docs system
 from rest_framework.documentation import include_docs_urls
-from goods.views import GoodsListView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -31,6 +30,5 @@ urlpatterns = [
     # path('artical/', admin.site.urls),
     path('demo/', TemplateView.as_view(template_name="index.html")),
     path('api/', include(router.urls)),
-    url(r'goods/', GoodsListView.as_view(), name='goods_list'),
     url(r'docs/', include_docs_urls(title='docs'))
 ]
